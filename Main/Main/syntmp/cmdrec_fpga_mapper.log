@@ -1,0 +1,10 @@
+C:\ispLEVER_Classic2_0\synpbase\bin64\m_cpld.exe  -prodtype  synplify_pro  -encrypt  -pro  -rundir  C:\users\johangh\desktop\gruppe16\main\main  -part ispGAL22LV10  -package LJ  -grade -4   -areadelay 0 -minc -RWCheckOnRam 1 -summaryfile C:\users\johangh\desktop\gruppe16\main\main\synlog\report\GAL_addrSelect_fpga_mapper.xml -top_level_module  GAL_addrSelect  -multisrs  -oedif  C:\users\johangh\desktop\gruppe16\main\main\GAL_addrSelect.edi  -freq 1.000  C:\users\johangh\desktop\gruppe16\main\main\synwork\GAL_addrSelect_mult.srs  -devicelib  C:\ispLEVER_Classic2_0\synpbase\lib\cpld\lattice.v  -ologparam  C:\users\johangh\desktop\gruppe16\main\main\syntmp\GAL_addrSelect.plg  -osyn  C:\users\johangh\desktop\gruppe16\main\main\GAL_addrSelect.srm  -prjdir  c:\users\johangh\desktop\gruppe16\main\main\  -prjname  GAL_addrSelect  -log  C:\users\johangh\desktop\gruppe16\main\main\synlog\GAL_addrSelect_fpga_mapper.srr 
+rc:0 success:1
+C:\users\johangh\desktop\gruppe16\main\main\GAL_addrSelect.edi|o|1536742967|6216
+C:\users\johangh\desktop\gruppe16\main\main\synwork\GAL_addrSelect_mult.srs|i|1536742966|1969
+C:\ispLEVER_Classic2_0\synpbase\lib\cpld\lattice.v|i|1401260784|210986
+C:\users\johangh\desktop\gruppe16\main\main\syntmp\GAL_addrSelect.plg|o|1536742967|0
+C:\users\johangh\desktop\gruppe16\main\main\GAL_addrSelect.srm|o|1536742967|4199
+C:\users\johangh\desktop\gruppe16\main\main\synlog\GAL_addrSelect_fpga_mapper.srr|o|1536742967|1066
+C:\ispLEVER_Classic2_0\synpbase\bin\m_cpld.exe|i|1399365684|7067648
+C:\ispLEVER_Classic2_0\synpbase\bin64\m_cpld.exe|i|1399368522|8049664

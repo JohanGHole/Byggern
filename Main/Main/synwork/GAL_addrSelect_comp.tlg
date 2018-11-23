@@ -1,0 +1,3 @@
+@N: CD630 :"C:\users\johangh\desktop\gruppe16\main\main\decoder.vhd":6:7:6:20|Synthesizing work.gal_addrselect.behavioral 
+Post processing for work.gal_addrselect.behavioral
+@W: CL159 :"C:\users\johangh\desktop\gruppe16\main\main\decoder.vhd":11:8:11:9|Input a8 is unused

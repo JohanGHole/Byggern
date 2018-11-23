@@ -1,0 +1,11 @@
+JDF B
+// Created by Version 2.0 
+PROJECT Decoder_gruppe16
+DESIGN decoder_gruppe16 Normal
+DEVKIT GAL16V8D-15QP
+ENTRY Pure VHDL
+MODULE decoder.vhd
+MODSTYLE GAL_addrSelect Normal
+SYNTHESIS_TOOL Synplify
+SIMULATOR_TOOL ActiveHDL
+TOPMODULE GAL_addrSelect
